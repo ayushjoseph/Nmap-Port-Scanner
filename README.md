@@ -19,3 +19,5 @@ This project implements a port scanner using Nmap on a Windows system as part of
 3. **Clone the Repository**:
    ```bash
    git clone git@github.com:yourusername/nmap-port-scanner.git
+4. **Run the scanner** :
+   -Example: python src/scanner.py 192.168.1.1
